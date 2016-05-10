@@ -6,3 +6,4 @@ Four score and seven years ago our fathers brought forth on this continent, a ne
 
 Jon Neff - jonneff
 Tajinder Singh - tajindes
+Kendrick Lo - ppgmg
