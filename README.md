@@ -8,3 +8,4 @@ Jon Neff - jonneff
 Tajinder Singh - tajindes
 Kendrick Lo - ppgmg
 Judit Lantos - jlantos
+Eric Fan - EricFanUofT
